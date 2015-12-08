@@ -1,0 +1,40 @@
+{
+    "name": "karma-jasmine-sinon",
+    "description": "jasmine-sinon for Karma",
+    "keywords": [
+        "karma",
+        "karma-plugin",
+        "sinon",
+        "jasmine",
+        "mock"
+    ],
+    "version": "1.0.4",
+    "main": "./index.js",
+    "author": {
+        "name": "James Keane",
+        "email": "james.keane+karma-jasmine-sinon@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jameskeane/karma-jasmine-sinon.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jameskeane/karma-jasmine-sinon/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.github.com/jameskeane/karma-jasmine-sinon/master/LICENSE"
+        }
+    ],
+    "peerDependencies": {
+        "karma": ">=0.10",
+        "sinon": "*",
+        "jasmine-sinon": "*"
+    },
+    "engines": {
+        "node": ">= 0.10.0"
+    },
+    "_id": "karma-jasmine-sinon@1.0.0",
+    "_from": "karma-jasmine-sinon@*"
+}
